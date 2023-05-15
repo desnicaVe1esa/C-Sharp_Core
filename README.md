@@ -1,2 +1,1 @@
-# C-Sharp_Core
-Learning C#
+### Шпора по C#
