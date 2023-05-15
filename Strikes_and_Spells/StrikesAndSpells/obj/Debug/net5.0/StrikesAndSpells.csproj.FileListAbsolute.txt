@@ -1,0 +1,16 @@
+C:\курс C#\учеба\StrikesAndSpells\bin\Debug\net5.0\StrikesAndSpells.exe
+C:\курс C#\учеба\StrikesAndSpells\bin\Debug\net5.0\StrikesAndSpells.deps.json
+C:\курс C#\учеба\StrikesAndSpells\bin\Debug\net5.0\StrikesAndSpells.runtimeconfig.json
+C:\курс C#\учеба\StrikesAndSpells\bin\Debug\net5.0\StrikesAndSpells.runtimeconfig.dev.json
+C:\курс C#\учеба\StrikesAndSpells\bin\Debug\net5.0\StrikesAndSpells.dll
+C:\курс C#\учеба\StrikesAndSpells\bin\Debug\net5.0\ref\StrikesAndSpells.dll
+C:\курс C#\учеба\StrikesAndSpells\bin\Debug\net5.0\StrikesAndSpells.pdb
+C:\курс C#\учеба\StrikesAndSpells\obj\Debug\net5.0\StrikesAndSpells.csproj.AssemblyReference.cache
+C:\курс C#\учеба\StrikesAndSpells\obj\Debug\net5.0\StrikesAndSpells.GeneratedMSBuildEditorConfig.editorconfig
+C:\курс C#\учеба\StrikesAndSpells\obj\Debug\net5.0\StrikesAndSpells.AssemblyInfoInputs.cache
+C:\курс C#\учеба\StrikesAndSpells\obj\Debug\net5.0\StrikesAndSpells.AssemblyInfo.cs
+C:\курс C#\учеба\StrikesAndSpells\obj\Debug\net5.0\StrikesAndSpells.csproj.CoreCompileInputs.cache
+C:\курс C#\учеба\StrikesAndSpells\obj\Debug\net5.0\StrikesAndSpells.dll
+C:\курс C#\учеба\StrikesAndSpells\obj\Debug\net5.0\ref\StrikesAndSpells.dll
+C:\курс C#\учеба\StrikesAndSpells\obj\Debug\net5.0\StrikesAndSpells.pdb
+C:\курс C#\учеба\StrikesAndSpells\obj\Debug\net5.0\StrikesAndSpells.genruntimeconfig.cache

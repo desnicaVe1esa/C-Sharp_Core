@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "RashodToplivaAvto/1.0.0": {
+        "runtime": {
+          "RashodToplivaAvto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RashodToplivaAvto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

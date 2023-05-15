@@ -1,0 +1,16 @@
+C:\Users\Кирилл\Desktop\BankomatMachine\bin\Debug\net5.0\BankomatMachine.exe
+C:\Users\Кирилл\Desktop\BankomatMachine\bin\Debug\net5.0\BankomatMachine.deps.json
+C:\Users\Кирилл\Desktop\BankomatMachine\bin\Debug\net5.0\BankomatMachine.runtimeconfig.json
+C:\Users\Кирилл\Desktop\BankomatMachine\bin\Debug\net5.0\BankomatMachine.runtimeconfig.dev.json
+C:\Users\Кирилл\Desktop\BankomatMachine\bin\Debug\net5.0\BankomatMachine.dll
+C:\Users\Кирилл\Desktop\BankomatMachine\bin\Debug\net5.0\ref\BankomatMachine.dll
+C:\Users\Кирилл\Desktop\BankomatMachine\bin\Debug\net5.0\BankomatMachine.pdb
+C:\Users\Кирилл\Desktop\BankomatMachine\obj\Debug\net5.0\BankomatMachine.csproj.AssemblyReference.cache
+C:\Users\Кирилл\Desktop\BankomatMachine\obj\Debug\net5.0\BankomatMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кирилл\Desktop\BankomatMachine\obj\Debug\net5.0\BankomatMachine.AssemblyInfoInputs.cache
+C:\Users\Кирилл\Desktop\BankomatMachine\obj\Debug\net5.0\BankomatMachine.AssemblyInfo.cs
+C:\Users\Кирилл\Desktop\BankomatMachine\obj\Debug\net5.0\BankomatMachine.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Desktop\BankomatMachine\obj\Debug\net5.0\BankomatMachine.dll
+C:\Users\Кирилл\Desktop\BankomatMachine\obj\Debug\net5.0\ref\BankomatMachine.dll
+C:\Users\Кирилл\Desktop\BankomatMachine\obj\Debug\net5.0\BankomatMachine.pdb
+C:\Users\Кирилл\Desktop\BankomatMachine\obj\Debug\net5.0\BankomatMachine.genruntimeconfig.cache

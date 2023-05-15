@@ -1,0 +1,13 @@
+C:\Users\Кирилл\Desktop\RashodToplivaAvto\bin\Debug\netcoreapp3.0\RashodToplivaAvto.exe
+C:\Users\Кирилл\Desktop\RashodToplivaAvto\bin\Debug\netcoreapp3.0\RashodToplivaAvto.deps.json
+C:\Users\Кирилл\Desktop\RashodToplivaAvto\bin\Debug\netcoreapp3.0\RashodToplivaAvto.runtimeconfig.json
+C:\Users\Кирилл\Desktop\RashodToplivaAvto\bin\Debug\netcoreapp3.0\RashodToplivaAvto.runtimeconfig.dev.json
+C:\Users\Кирилл\Desktop\RashodToplivaAvto\bin\Debug\netcoreapp3.0\RashodToplivaAvto.dll
+C:\Users\Кирилл\Desktop\RashodToplivaAvto\bin\Debug\netcoreapp3.0\RashodToplivaAvto.pdb
+C:\Users\Кирилл\Desktop\RashodToplivaAvto\obj\Debug\netcoreapp3.0\RashodToplivaAvto.csproj.AssemblyReference.cache
+C:\Users\Кирилл\Desktop\RashodToplivaAvto\obj\Debug\netcoreapp3.0\RashodToplivaAvto.AssemblyInfoInputs.cache
+C:\Users\Кирилл\Desktop\RashodToplivaAvto\obj\Debug\netcoreapp3.0\RashodToplivaAvto.AssemblyInfo.cs
+C:\Users\Кирилл\Desktop\RashodToplivaAvto\obj\Debug\netcoreapp3.0\RashodToplivaAvto.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Desktop\RashodToplivaAvto\obj\Debug\netcoreapp3.0\RashodToplivaAvto.dll
+C:\Users\Кирилл\Desktop\RashodToplivaAvto\obj\Debug\netcoreapp3.0\RashodToplivaAvto.pdb
+C:\Users\Кирилл\Desktop\RashodToplivaAvto\obj\Debug\netcoreapp3.0\RashodToplivaAvto.genruntimeconfig.cache
